@@ -10,17 +10,6 @@ A simple and interactive Pizza Menu application that allows users to view and se
 - 🎨 **Modern UI**: Clean and intuitive user interface.
 
 
-### Explanation:
-- **Project Title and Description**: Briefly describes what the project is about.
-- **Features**: Lists key features of the project.
-- **Installation**: Instructions for setting up the project locally.
-- **Usage**: Explains how to use the application.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: States the license under which the project is released.
-- **Contact**: Provides a way for others to reach out for questions or contributions.
-
-You can customize this template further based on specific details or features unique to your project. Once you create the `README.md` file, add it to your repository, and it will be displayed on the main page of your GitHub repository.
-
 
 ## Installation
 
