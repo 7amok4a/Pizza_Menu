@@ -19,3 +19,8 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/7amok4a/Pizza_Menu.git
+
+
+
+   
+![Screenshot from 2024-08-27 03-37-44](https://github.com/user-attachments/assets/2487be2f-2197-4f56-8aa1-0b532aa73f2c)
